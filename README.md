@@ -11,7 +11,11 @@ We established a minimal, yet non-negligible bar for participation:
 
 Evaluation of the submissions must be based on the above points. Positive or negative discrimination based on information other than the received submission contradicts the concept of FAIL night.
 
+## Goals
 
+* Provide an excuse for more or less regular meetups with likeminded geeks
+* Provide an opportunity for new people to get involved
+* Keep the discussion focused and constructive
 
 ## Announcement
 * The announcement should be mostly done in analog form. Receiving a "limited edition" flyer is more personal than receiving an e-mail.
