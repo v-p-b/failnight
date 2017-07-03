@@ -34,3 +34,6 @@ The announcement must not contain the exact location of the event. This informat
 * Analogue is preferred. If you need a piece of code or a diagram for illustration, try to make it so simple that you can write/draw it on the back of a napkin by your head.
 * If a talk doesn't include a lesson for the audience to learn, the participants are encouraged to find out what the lesson is. Behind every good FAIL there is a lesson!
 
+## License
+
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
