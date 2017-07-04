@@ -34,6 +34,13 @@ The announcement must not contain the exact location of the event. This informat
 * Analogue is preferred. If you need a piece of code or a diagram for illustration, try to make it so simple that you can write/draw it on the back of a napkin by your head.
 * If a talk doesn't include a lesson for the audience to learn, the participants are encouraged to find out what the lesson is. Behind every good FAIL there is a lesson!
 
+## Upcoming events
+
+* [Camp++](https://camp.hsbp.org/2017/pp7e1/fahrplan/events/33.html) - 2017-07-07 Komárom, Hungary
+* You can watch [@hekkcamp](https://twitter.com/hekkcamp) for real-time info.
+
+If you want your event to show up here, issue a PR to the [repository](https://github.com/failnight/failnight.github.io).
+
 ## License
 
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
