@@ -36,7 +36,7 @@ The announcement must not contain the exact location of the event. This informat
 
 ## Upcoming events
 
-* [Camp++](https://camp.hsbp.org/2017/pp7e1/fahrplan/events/33.html) - 2017-07-07 Komárom, Hungary
+* 2018-04-13 Budapest, Hungary
 * You can watch [@hekkcamp](https://twitter.com/hekkcamp) for real-time info.
 
 If you want your event to show up here, issue a PR to the [repository](https://github.com/failnight/failnight.github.io).
